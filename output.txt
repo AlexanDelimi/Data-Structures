@@ -1,0 +1,4 @@
+linear   The worst time is 17200 and the average time is 5985.3 milliseconds
+binary   The worst time is 12 and the average time is 2.902 milliseconds
+interpolation   The worst time is 5000 and the average time is 903.5 milliseconds
+rbsearch   The worst time is 1.8 and the average time is 0.2586 milliseconds
